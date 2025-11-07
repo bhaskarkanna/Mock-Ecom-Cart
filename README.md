@@ -1,8 +1,8 @@
 
 # 🛒 Vibe Commerce – Full Stack E-Commerce Cart
 
-A **Full Stack E-Commerce Cart Application** built as part of the **Nexora Internship Technical Assignment**.  
-This project demonstrates complete **frontend, backend, and database integration** using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+A Full Stack E-Commerce Cart Application built as part of the Nexora Internship Technical Assignment.  
+This project demonstrates complete frontend, backend, and database integration using the MERN stack (MongoDB, Express, React, Node.js).  
 It mimics a real-world e-commerce experience — product browsing, cart management, and checkout simulation.
 ---
 
@@ -31,8 +31,8 @@ It mimics a real-world e-commerce experience — product browsing, cart manageme
 
 ## **1. Introduction**
 
-The **Full Stack E-Commerce Cart Project (Vibe Commerce)** was developed as part of the Nexora Internship technical assessment.
-This project demonstrates an **end-to-end MERN stack web application** capable of managing product listings, a user cart, and a mock checkout process.
+The Full Stack E-Commerce Cart Project (Vibe Commerce) was developed as part of the Nexora Internship technical assessment.
+This project demonstrates an end-to-end MERN stack web application capable of managing product listings, a user cart, and a mock checkout process.
 
 It mimics the functionality of a modern e-commerce system while focusing on clean architecture, smooth data flow, and responsive UI.
 This project proves how both frontend and backend work in harmony to deliver dynamic, real-time functionality to users.
@@ -41,7 +41,7 @@ This project proves how both frontend and backend work in harmony to deliver dyn
 
 ## **2. Objective**
 
-The main objective is to **build a functional e-commerce cart** using modern web technologies.
+The main objective is to build a functional e-commerce cart using modern web technologies.
 Specific goals include:
 
 * Creating an interactive product catalog.
