@@ -1,15 +1,16 @@
-# Node modules
+# Node / React
 node_modules/
-# Build files
-dist/
 build/
-# Environment variables
+dist/
 .env
-# Database
-db.sqlite
-# Logs
+
+# Logs & DB
 *.log
-npm-debug.log*
-# PDF report backups
+db.sqlite
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large files
 *.pdf
-Vibe_Commerce_Assignment_Final_Complete.pdf
